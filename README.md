@@ -4,3 +4,7 @@ Three numerical experiments are included:
 - Experiment 1: 50 Sudoku puzzles from Project Euler (Problem 96)
 - Experiment 2: Comparison of operators and parameter lambda values
 - Experiment 3: One million Sudoku puzzles from the Kaggle dataset
+
+The dataset used in Experiment 3 is not included in this repository 
+due to its size. It can be downloaded from:
+https://www.kaggle.com/datasets/rohanrao/sudoku
