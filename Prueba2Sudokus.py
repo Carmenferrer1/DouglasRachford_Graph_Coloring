@@ -265,7 +265,7 @@ operadores = {
     "TCD":   TCD,
 }
 itermax       = 50000
-tol           = 1e-10
+tol           = 1e-8
 n_repeticiones = 10
 
 resultados = {op: {lam: {"exitos": 0, "iters": [], "tiempos": [], "total": 0}
